@@ -14,4 +14,8 @@ I'm sure I'll write a lot more interesting things in the future.
 >                                               - Unknown 
 
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Burger1](./burger1.jpg)
+![Burger1](./burger2.jpg)
+![Burger1](./burger3.jpg)
+![Burger1](./burger4.jpg)
+![Burger1](./burger5.jpg)

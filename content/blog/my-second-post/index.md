@@ -1,13 +1,17 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Hamburger  Quest 
+date: "2022-04-09T22:12:03.284Z"
+description: "What is Best Hamburger so far?"
 ---
 
-Wow! I love blogging so much already.
+This time is Hamburger Quest! 
+I'm sure I'll write a lot more interesting things in the future.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
 
-Yeah, I didn't either.
+> There is a quote 
+> "Most people want a perfect relationship...
+> I just want a hamburger that looks like the ones in commercials" 
+>                                               - Unknown 
+
+
+![Chinese Salty Egg](./salty_egg.jpg)

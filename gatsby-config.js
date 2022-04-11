@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Moe's Blog`,
     author: {
       name: `Moe Peterson`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `Food, Travel, Coding and EVERYTHING `,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `For DGM3780`,
+    siteUrl: `https://gatsbyblogmpmaster72896.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `AandMtravellers`,
     },
   },
   plugins: [

@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Moe's Blog`,
+    title: `Coffee Peeps`,
     author: {
-      name: `Moe Peterson`,
-      summary: `Food, Travel, Coding and EVERYTHING `,
+      name: `Moe`,
+      summary: `Food, Travel, Coding and More!`,
     },
     description: `For DGM3780`,
     siteUrl: `https://gatsbyblogmpmaster72896.gatsbyjs.io/`,
